@@ -59,11 +59,13 @@ Calculation:
 
 a.   KVL:
  ![exp1 6](https://github.com/user-attachments/assets/8dbee92e-7dc5-443d-a11d-7ac2d9373c34)
+![exp1 1](https://github.com/user-attachments/assets/009aff96-542d-48cb-ad04-8c354ff3a2e3)
 
 
 b.  KCL:
 
-![exp1 7](https://github.com/user-attachments/assets/2881b955-aa16-4108-b541-d5ec13fa2dde)
+![exp 1 2](https://github.com/user-attachments/assets/42c1601c-4875-4862-8270-88e75ab0cf3f)
+
 
 
 
